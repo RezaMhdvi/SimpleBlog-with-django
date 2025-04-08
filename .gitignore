@@ -1,5 +1,15 @@
-Lib/
-__pycache__/
-db.sqlite3
-Scripts/
+# Python
 *.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+Lib/
+Scripts/
+.env
+
+# Database
+db.sqlite3
+
+# VSCode settings
+.vscode/
